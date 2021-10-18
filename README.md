@@ -18,6 +18,12 @@
 ![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
 
 ##
+### Aprendendo:
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![React Native](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+##
 ### 📊 Estatisticas:
   
 <div>
@@ -30,7 +36,7 @@
 
 <div style="display: inline_block"><br> 
   <a href="https://mi-code.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=&logoColor=00FFFF&link=https://www.linkedin.com/in/micheldslive"/></a> 
+  <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=00FFFF&link=https://www.linkedin.com/in/micheldslive"/></a> 
   <a href="https://www.linkedin.com/in/micheldslive" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/micheldslive"/></a> 
   <a href="https://www.instagram.com/micheldslive/" alt="Instagram">
