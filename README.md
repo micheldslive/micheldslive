@@ -3,8 +3,8 @@
  ## Olá, Sou Michel Domingos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=micheldslive" alt="scillapinheiro" />
 
 - 🔭 Atualmente estudando Desenvolvimento FullStack.
-- 🌱 Programando em PHP, ReactJS, entre outros.
-- ☄ Atualmente aprendendo React Native e NodeJS.
+- 🌱 Trabalhando com PHP, HTML, CSS e Javascript(Jquery).
+- ☄ Aprendendo React Native e NodeJS.
 
 ##
 ### 🚀 Habilidades:
