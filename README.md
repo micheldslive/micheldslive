@@ -16,6 +16,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Sass](https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=cc6699)
 ![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
+![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=5E7DB0)
 
 ##
 ### Aprendendo:
