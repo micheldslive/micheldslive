@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando Desenvolvimento FullStack.
 - 🌱 Trabalhando com PHP, HTML, CSS e Javascript(Jquery).
-- ☄ Aprendendo React Native e NodeJS.
+- ☄ Aprendendo Node.js.
 
 ##
 ### 🚀 Habilidades:
