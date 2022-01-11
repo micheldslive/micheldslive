@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando Desenvolvimento FullStack.
 - 🌱 Trabalhando com PHP, HTML, CSS e Javascript(Jquery).
-- ☄ Aprendendo Node.js.
+- ☄ Aprendendo GraphQL, NestJS e Jest.
 
 ##
 ### 🚀 Habilidades:
@@ -16,13 +16,11 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Sass](https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=cc6699)
 ![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
-![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=5E7DB0)
-
-##
-### Aprendendo:
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![React Native](https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GraphQL](https://img.shields.io/badge/GraphQL-323330?style=for-the-badge&logo=GraphQL&logoColor=2496ED)
+![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=5E7DB0)
 
 ##
 ### 📊 Estatisticas:
