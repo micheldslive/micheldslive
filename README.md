@@ -2,9 +2,8 @@
 
  ## Olá, Sou Michel Domingos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=micheldslive" alt="scillapinheiro" />
 
-- 🔭 Atualmente estudando Desenvolvimento FullStack.
-- 🌱 Trabalhando com PHP, HTML, CSS e Javascript(Jquery).
-- ☄ Aprendendo GraphQL, NestJS e Jest.
+- 🔭 Atualmente estudando Desenvolvimento Full Cycle.
+- 🌱 Trabalhando com VTEX, REACTJS, NODEJS, Typescript, GRAPHQL, Styled Components, SASS, HTML, CSS e Javascript(Jquery).
 
 ##
 ### 🚀 Habilidades:
