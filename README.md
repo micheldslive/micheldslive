@@ -3,7 +3,7 @@
  ## Olá, Sou Michel Domingos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=micheldslive" alt="micheldslive" />
 
 - 🔭 Atualmente estudando Desenvolvimento Full Cycle.
-- 🌱 Trabalhando com ANGULAR, REACTJS, NODEJS, Typescript, GRAPHQL, Styled Components, SASS, HTML, CSS.
+- 🌱 Trabalhando com REACTJS, NODEJS, Typescript, GRAPHQL, Styled Components, SASS, HTML, CSS.
 
 ##
 ### 🚀 Stack:
