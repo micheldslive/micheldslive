@@ -32,6 +32,18 @@
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=5E7DB0)
 
 ##
+```ts
+const micheldslive = {
+  name: "Michel Domingos da Silva",
+  nick: "micheldslive",
+  age: 34,
+  job: "Front-End Developer",
+  hobby: ["animes", "films", "series", "pizza"],
+  mail: "micheldslive@gmail.com",
+}
+```
+
+##
 ### 📊 Statistics:
   
 <div>
