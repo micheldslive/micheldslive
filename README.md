@@ -55,7 +55,7 @@ const micheldslive = {
  ### 📞 Contact:
 
 <div style="display: inline_block"><br> 
-  <a href="https://micode-dev.vercel.app/" target="_blank">
+  <a href="https://mi-code.dev/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=appveyor&logoColor=00FFFF&link=https://www.linkedin.com/in/micheldslive"/></a> 
   <a href="https://www.linkedin.com/in/micheldslive" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/micheldslive"/></a> 
