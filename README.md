@@ -1,8 +1,8 @@
 <img src="code.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Front-End">
 
- ## Olá, Sou Michel Domingos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=micheldslive" alt="micheldslive" />
+ ## Hi, I'm Michel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=micheldslive" alt="micheldslive" />
 
-- 🌱 Trabalhando com REACTJS, Next.js, Node.js, Javascript/Typescript, HTML, CSS.
+- 🌱 Working with React.js, Node.js, Next.js, Nest.js, Javascript/Typescript.
 
 ##
 ### 🚀 Stack:
@@ -35,9 +35,9 @@
 const micheldslive = {
   name: "Michel Domingos da Silva",
   nick: "micheldslive",
-  age: 34,
-  job: "Front-End Developer",
-  hobby: ["animes", "films", "series", "pizza"],
+  age: 36,
+  job: "Senior Software Engineer",
+  hobby: ["animes", "movies", "series", "pizza"],
   mail: "micheldslive@gmail.com",
 }
 ```
